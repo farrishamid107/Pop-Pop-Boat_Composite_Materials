@@ -139,8 +139,19 @@ The final prototype, produced in purple material, represents an optimized versio
 The final design achieves a balance between structural performance, manufacturability, and functional integration. It demonstrates improved print reliability and optimized material usage.
 
 ---
+## Materials Used
+
+- Glass Fiber (Fiberglass) for hull structure
+- Soda can for boiler system
+- Straws for flow and thermodynamic visualization
+- Silicone glue for bonding components
+- 3D printed polymer mold
+- Gel coat for surface finishing
+
+---
 
 ## Materials and Manufacturing Process
+
 
 - **Manufacturing Method:** Fused Deposition Modeling (FDM)  
 - **Material Type:** Composite-compatible thermoplastics (e.g., PLA-based blends or reinforced filaments)  
