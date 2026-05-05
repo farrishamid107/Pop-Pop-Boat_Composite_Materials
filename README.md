@@ -61,6 +61,7 @@ This process allowed for a strong yet lightweight structure suitable for water t
 
 The hull of the boat was designed using CAD software and fabricated through additive manufacturing. A 3D printed mold was created as the base structure for the composite layup process. The mold was then finished with a gel coat to ensure a smooth surface for fiberglass application and easier demolding.
 
+Design Concept: ![Concept of Hull](https://github.com/farrishamid107/Pop-Pop-Boat_Composite_Materials/blob/c531a95a884d687bb2d2141cf26b1e3206d3f67b/115.32.jpg)
 The CAD model was iteratively refined to improve:
 - Structural integrity
 - Weight reduction
