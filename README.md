@@ -34,6 +34,8 @@ The primary objectives of this project were to:
 
 ## Initial Design and Prototype (Iteration 1)
 
+![Boat Design](1st Iteration.png)
+
 The first prototype, fabricated in gray material, served as a baseline model to evaluate geometry, manufacturability, and structural feasibility.
 
 ### Key Characteristics
@@ -49,6 +51,8 @@ The first prototype, fabricated in gray material, served as a baseline model to 
 ---
 
 ## Engineering Modification
+
+![Boat Design](2nd Iteration.png)
 
 To address the limitations of the initial design, a shelling strategy was implemented. This involved removing excess internal material while preserving the external geometry.
 
@@ -72,6 +76,8 @@ These challenges informed further refinements and emphasized the importance of m
 ---
 
 ## Final Design (Iteration 2)
+
+![Boat Design](Final Iteration.png)
 
 The final prototype, produced in purple material, represents an optimized version of the original concept, incorporating lessons learned from earlier iterations.
 
