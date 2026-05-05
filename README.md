@@ -52,7 +52,7 @@ The first prototype, fabricated in gray material, served as a baseline model to 
 
 ## Engineering Modification
 
-![Boat Design](2nd Iteration.png)
+![Boat Design]([2nd Iteration.png](https://github.com/farrishamid107/Pop-Pop-Boat_Composite_Materials/blob/f81300ee856e43cbfa9b906f5d163f421c4126ac/2nd%20Iteration.jpeg))
 
 To address the limitations of the initial design, a shelling strategy was implemented. This involved removing excess internal material while preserving the external geometry.
 
