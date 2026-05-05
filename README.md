@@ -68,6 +68,7 @@ The CAD model was iteratively refined to improve:
 - Boiler integration space
 - Hydrodynamic shape
 
+CAD MODEL: ![Model](https://github.com/farrishamid107/Pop-Pop-Boat_Composite_Materials/blob/b8ab098cd5cdf3727b90c3ac91e038b2a7b84857/CAD.png)
 ---
 
 ## Boiler Design and Thermodynamics
