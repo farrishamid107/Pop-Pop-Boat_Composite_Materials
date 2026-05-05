@@ -34,6 +34,8 @@ The primary objectives of this project were to:
 ## Boiler Prototype
 
 ![Boat Design](https://github.com/farrishamid107/Pop-Pop-Boat_Composite_Materials/blob/1de394d5604036bd9e902d7693a7d57790079921/Boiler%20Prototype.jpeg)
+The first boiler design prototype for the pop-up boat was created to test how heat and structure would work together in a simple and practical way. We used a basic 3D-printed model to shape the boiler area and then improved it by removing excess solid material inside (shelling) to make it lighter and more efficient. To study thermodynamics in a simple way, we used soda cans and straws as a basic experimental setup to understand how heat and air flow through a system. This helped us visualize how heat could move through the boiler and affect the surrounding structure. From this prototype, we learned that the design still needs better support for the heat source and improved stability, which will be addressed in the next version of the design.
+
 
 ## Initial Design and Prototype (Iteration 1)
 
