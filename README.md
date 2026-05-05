@@ -31,6 +31,9 @@ The primary objectives of this project were to:
 - Improve structural integrity through iterative design refinement  
 
 ---
+## Boiler Prototype
+
+![Boat Design](https://github.com/farrishamid107/Pop-Pop-Boat_Composite_Materials/blob/1de394d5604036bd9e902d7693a7d57790079921/Boiler%20Prototype.jpeg)
 
 ## Initial Design and Prototype (Iteration 1)
 
