@@ -152,6 +152,7 @@ The final design achieves a balance between structural performance, manufacturab
 
 ## Materials and Manufacturing Process
 
+![Design](https://github.com/farrishamid107/Pop-Pop-Boat_Composite_Materials/blob/658c63367feed32c66cffaa1d5b271b225790899/molded_boat.png)
 
 - **Manufacturing Method:** Fused Deposition Modeling (FDM)  
 - **Material Type:** Composite-compatible thermoplastics (e.g., PLA-based blends or reinforced filaments)  
