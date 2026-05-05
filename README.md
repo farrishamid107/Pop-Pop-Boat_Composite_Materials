@@ -31,11 +31,51 @@ The primary objectives of this project were to:
 - Improve structural integrity through iterative design refinement  
 
 ---
-## Boiler Prototype
+## Design and Manufacturing Rules
 
+- The boat mold must be 3D printed and finished with gel coat before composite layup
+- The boat body material is Glass Fiber (Fiberglass)
+- Aluminum tubing is not allowed as a boiler material
+  - It may only be used for structural support of the boiler
+- Soda cans are permitted for boiler construction and thermodynamic testing
+- Aluminum may be used for supporting the boiler or assisting heat transfer into/out of the system
+- Silicone glue must be used for assembly (Blue Tack is not permitted)
+- Polyester resin must not be directly mixed with gel coat during application
+  - Each material must be applied in proper layers and curing stages
+
+---
+## Composite Manufacturing Process
+
+The boat body was manufactured using fiberglass composite materials. The process included:
+
+1. 3D printing the mold
+2. Applying gel coat to the mold surface
+3. Laying fiberglass sheets over the mold
+4. Curing the composite structure
+5. Removing the final hull from the mold
+
+This process allowed for a strong yet lightweight structure suitable for water testing.
+
+---
+## CAD Design and Mold Development
+
+The hull of the boat was designed using CAD software and fabricated through additive manufacturing. A 3D printed mold was created as the base structure for the composite layup process. The mold was then finished with a gel coat to ensure a smooth surface for fiberglass application and easier demolding.
+
+The CAD model was iteratively refined to improve:
+- Structural integrity
+- Weight reduction
+- Boiler integration space
+- Hydrodynamic shape
+
+---
+
+## Boiler Design and Thermodynamics
+- The boiler system was designed using a simple experimental approach to demonstrate heat transfer and fluid motion. A soda can was used as the primary boiler material to allow safe and visible thermodynamic behavior. - Straws were incorporated to guide water flow and observe pressure-driven movement within the system.
+This setup helped visualize how heat energy converts into motion through steam generation and water displacement. The design highlighted the importance of sealing, heat distribution, and material selection for efficient operation.
+- To study thermodynamics in a simple way, we used soda cans and straws as a basic experimental setup to understand how heat and air flow through a system. This helped us visualize how heat could move through the boiler and affect the surrounding structure. From this prototype, we learned that the design still needs better support for the heat source and improved stability, which will be addressed in the next version of the design.
 ![Boat Design](https://github.com/farrishamid107/Pop-Pop-Boat_Composite_Materials/blob/1de394d5604036bd9e902d7693a7d57790079921/Boiler%20Prototype.jpeg)
-The first boiler design prototype for the pop-up boat was created to test how heat and structure would work together in a simple and practical way. We used a basic 3D-printed model to shape the boiler area and then improved it by removing excess solid material inside (shelling) to make it lighter and more efficient. To study thermodynamics in a simple way, we used soda cans and straws as a basic experimental setup to understand how heat and air flow through a system. This helped us visualize how heat could move through the boiler and affect the surrounding structure. From this prototype, we learned that the design still needs better support for the heat source and improved stability, which will be addressed in the next version of the design.
 
+--- 
 
 ## Initial Design and Prototype (Iteration 1)
 
@@ -131,3 +171,25 @@ Future improvements to the design may include:
 ## Conclusion
 
 The pop-up boat project demonstrates the application of iterative engineering design, material optimization, and additive manufacturing techniques in developing a functional prototype. The evolution from a solid initial model to an optimized shelled structure highlights the importance of efficiency, structural planning, and early system integration in engineering design.
+
+---
+
+
+## Reference Videos
+
+The following videos were used as design and fabrication references:
+
+- How to Make a Simple Pop Pop Boat  
+  https://www.youtube.com/results?search_query=How+to+Make+a+Simple+Pop+Pop+Boat  
+
+- How to Make Large Composite Fibreglass Patterns by Hand  
+  https://www.youtube.com/results?search_query=How+to+Make+Large+Composite+Fibreglass+Patterns+by+Hand  
+
+- How to Laminate Large Composite Fibreglass Moulds  
+  https://www.youtube.com/results?search_query=How+to+Laminate+Large+Composite+Fibreglass+Moulds  
+
+- How to Make a Pop Pop Boat From a Pop Can  
+  https://www.youtube.com/results?search_query=How+to+Make+a+Pop+Pop+Boat+From+a+Pop+Can  
+
+- Making a Composite Mould for a Carbon Fibre Part from a 3D Printed Pattern  
+  https://www.youtube.com/results?search_query=Making+a+Composite+Mould+for+a+Carbon+Fibre+Part+from+a+3D+Printed+Pattern
