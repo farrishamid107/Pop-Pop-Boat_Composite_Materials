@@ -52,7 +52,7 @@ The first prototype, fabricated in gray material, served as a baseline model to 
 
 ## Engineering Modification
 
-![Boat Design]([2nd Iteration.png](https://github.com/farrishamid107/Pop-Pop-Boat_Composite_Materials/blob/f81300ee856e43cbfa9b906f5d163f421c4126ac/2nd%20Iteration.jpeg))
+![2nd Iteration.png](https://github.com/farrishamid107/Pop-Pop-Boat_Composite_Materials/blob/f81300ee856e43cbfa9b906f5d163f421c4126ac/2nd%20Iteration.jpeg)
 
 To address the limitations of the initial design, a shelling strategy was implemented. This involved removing excess internal material while preserving the external geometry.
 
@@ -77,7 +77,7 @@ These challenges informed further refinements and emphasized the importance of m
 
 ## Final Design (Iteration 2)
 
-![Boat Design]([Final Iteration.png](https://github.com/farrishamid107/Pop-Pop-Boat_Composite_Materials/blob/858b9517fd97a0000139feecfd1ee41550e3febf/Final%20Iteration.jpeg))
+![Final Iteration.png](https://github.com/farrishamid107/Pop-Pop-Boat_Composite_Materials/blob/858b9517fd97a0000139feecfd1ee41550e3febf/Final%20Iteration.jpeg)
 
 The final prototype, produced in purple material, represents an optimized version of the original concept, incorporating lessons learned from earlier iterations.
 
