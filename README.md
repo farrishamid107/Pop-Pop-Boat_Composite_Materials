@@ -34,7 +34,7 @@ The primary objectives of this project were to:
 
 ## Initial Design and Prototype (Iteration 1)
 
-![Boat Design]((https://raw.githubusercontent.com/farrishamid107/Pop-Pop-Boat_Composite_Materials/main/images/1st Iteration.png)the
+![Boat Design]((https://raw.githubusercontent.com/farrishamid107/Pop-Pop-Boat_Composite_Materials/main/images/1st Iteration.png)
 
 The first prototype, fabricated in gray material, served as a baseline model to evaluate geometry, manufacturability, and structural feasibility.
 
