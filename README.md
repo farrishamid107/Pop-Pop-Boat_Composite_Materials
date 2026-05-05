@@ -77,7 +77,7 @@ These challenges informed further refinements and emphasized the importance of m
 
 ## Final Design (Iteration 2)
 
-![Boat Design](Final Iteration.png)
+![Boat Design]([Final Iteration.png](https://github.com/farrishamid107/Pop-Pop-Boat_Composite_Materials/blob/858b9517fd97a0000139feecfd1ee41550e3febf/Final%20Iteration.jpeg))
 
 The final prototype, produced in purple material, represents an optimized version of the original concept, incorporating lessons learned from earlier iterations.
 
